@@ -1,6 +1,5 @@
 /storage/framework/cache
 /vendor
-/bootstrap/cache
 /.phpunit.cache
 /node_modules
 .env
