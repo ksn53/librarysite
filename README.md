@@ -60,11 +60,15 @@ create folders storage/framework:
     cache
 
 php artisan key:generate
+
 php artisan migrate
+
 php artisan db:seed
 
 default user credentials:
+
 user: testmail@test.loc
+
 password: password
 -----------------------------------------------------
 Example API requests
