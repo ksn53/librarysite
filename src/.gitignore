@@ -1,7 +1,3 @@
-/storage/logs
-/storage/views
-/storage/framework
-/storage/app
 /storage/framework/cache
 /vendor
 /bootstrap/cache
