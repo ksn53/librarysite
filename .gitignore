@@ -1,6 +1,4 @@
 /database
 /database/*
 /.idea
-.env
-.env.custom
 
