@@ -51,6 +51,7 @@ Requirements:
 Commands needed to power up this project:
  
 composer install
+
 composer dump-autoload --no-scripts --optimize
 
 create folders storage/framework:
